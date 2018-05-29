@@ -10,7 +10,7 @@
   "license": "MIT",
   "require": {
     "nikic/php-parser": "^2.1",
-    "symfony/console": "^2.7"
+    "symfony/console": "^3.4"
   },
   "autoload": {
     "psr-4": { "MD\\": "src/" }
