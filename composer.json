@@ -1,9 +1,10 @@
 {
-  "name": "stefk/md",
+  "name": "icap/md",
   "authors": [
     {
-      "name": "Stéphane Klein",
-      "email": "stephaneklein221@gmail.com"
+      "name": "Claroline development team",
+      "email": "dev@claroline.net",
+      "homepage": "http://github.com/claroline"
     }
   ],
   "license": "MIT",
